@@ -13,23 +13,23 @@
     "env": {
         "APP_ID": {
             "description": "Your APP ID From my.telegram.org or @UseTGXBot",
-            "value": ""
+            "value": "6362436"
         },
         "API_HASH": {
             "description": "Your API Hash From my.telegram.org or @UseTGXBot",
-            "value": ""
+            "value": "c0e8c637c6ea7c97fce7f4d9622aa023"
         },
         "BOT_TOKEN": {
             "description": "Your Bot Token From @BotFather",
-            "value": ""
+            "value": "1942237985:AAHl3d-_tDAjNsOfkZ7fFSeZh7ge1vFrPsM"
         },
         "DB_URI": {
             "description": "Your Mongo DB URL Obtained From mongodb.com",
-            "value": ""
+            "value": "mongodb+srv://Unlimited:Unlimited@cluster0.hrtvz.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
         },
         "USER_SESSION": {
             "description": "A Pyrogram User Session String. Generated From @PyrogramStringBot",
-            "value": ""
+            "value": "BQA_U8yswryJ56baI_YDDbxA0tInICCQRtrCvWyJFYhpvJA2Z1aVRcePPmnOp0WFiQN6HepAgMop98cWivnk5Xb4QmDq0xcOM9v0VMzg3WvdMUDK6TKUxornfDd6I5M8ZBmkPcZC3YhMWaW1_djHVdoWMxpWX1VX0hly5SWpn9e3LkMXPZvOUCpln3U7Br8Aqbsg8eRmwjle7miqisW6GftiBkGmGszASohtkDOY-aZm6_uMMpTXWYiZwz6CWuhYMdQLFnaA3-oPq95AiebZOtFJGI451f3Yy0AirRtg22bOuKyYp6YoTjRYJOMt-Jvhc6rl_lvDs1VHyqwbLU0opiF5XfdGpwA"
         }
     },
     "buildpacks": [
